@@ -1,5 +1,5 @@
-# Download_Install_macOS
-![Github Actions](https://github.com/chris1111/Download_Install_macOS/actions/workflows/Build.yml/badge.svg?branch=main)
+# macOS Installer Download Script
+I recommend using the [Mist GUI](https://github.com/ninxsoft/Mist) over this script, both do the same thing, Mist is just better/more user-friendly.
 ### Bash script to download macOS installers from Apple server (Beta included).
 ### At the end you will have to save the macOS install in a chosen directory.
 
