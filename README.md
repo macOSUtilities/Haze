@@ -1,31 +1,46 @@
 # macOS Installer Download Script
-I recommend using the [Mist GUI](https://github.com/ninxsoft/Mist) over this script, both do the same thing, Mist is just better/more user-friendly.
-### Bash script to download macOS installers from Apple server (Beta included).
-### At the end you will have to save the macOS install in a chosen directory.
 
-- Base: on [heinthanth · he/him work](https://github.com/htmm/macos-bootable-usb)
-- SHC: [Generic Script Compiler Version 3.8.9b](https://github.com/chris1111/SHC-3.8.9b)
+> Consider using the [Mist GUI](https://github.com/ninxsoft/Mist). It offers the same functionality as this script but with a more user-friendly and feature-rich interface.
 
-### 🎦 How to use ➤ [Usage Video](https://github.com/chris1111/Download_Install_macOS/blob/main/Usage.md)
+---
 
-Download ➤ [Release](https://github.com/chris1111/Download_Install_macOS/releases/tag/V3)
+## Overview
+This bash script allows you to download macOS installers (including beta versions) directly from Apple's servers.  
+At the end of the process, you’ll be prompted to save the installer in your chosen directory.
 
+---
 
-<img width="600" alt="1" src="Screenshot/Screenshot.png">
-
-Choice [28] = 10.13.5 ➢ 17F66a ⬇︎
-
-<img width="600" alt="1" src="Screenshot/Screenshot28.png">
-
-Choice [1] = 14.5 ➢ 23F5059e ⬇︎
-
-<img width="600" alt="1" src="Screenshot/Screenshot1.png">
+## How to Use  
+Check out the [instruction ](https://github.com/chris1111/Download_Install_macOS/blob/main/Usage.md) for step-by-step guidance or follow these instructions:
 
 
-- [x] `Building from Xcode:`
+---
 
-#### Build repository
-```bash
-git clone https://github.com/chris1111/Download_Install_macOS.git && cd $HOME/Download_Install_macOS && make
-```
+## Download  
+Grab the latest release ➤ [Download Here](https://github.com/macOSUtilities/Doenload-macOS-Script/releases/tag/latest)
 
+---
+
+## Screenshots  
+### Example Choices:  
+- **Choice [28]** → macOS 10.13.5 (Build 17F66a)  
+  ![Screenshot 28](Screenshot/Screenshot28.png)
+
+- **Choice [1]** → macOS 14.5 (Build 23F5059e)  
+  ![Screenshot 1](Screenshot/Screenshot1.png)
+
+---
+
+## Build Instructions  
+
+To build and run the script from source using Xcode, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/macOSUtilities/Download-macOS-Script.git
+
+---
+
+## Credits
+- **Base**: Adapted from [heinthanth · he/him work](https://github.com/htmm/macos-bootable-usb)  
+- **Script Compiler**: [Generic Script Compiler Version 3.8.9b](https://github.com/chris1111/SHC-3.8.9b)  
