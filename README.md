@@ -1,16 +1,14 @@
 # macOS Installer Download Script
 
 > Consider using the [Mist GUI](https://github.com/ninxsoft/Mist). It offers the same functionality as this script but with a more user-friendly and feature-rich interface.
+[Download the latest release](https://github.com/macOSUtilities/Download-macOS-Script/releases/tag/latest)
 
 ## Overview
 This bash script allows you to download macOS installers (including beta versions) directly from Apple's servers.  
 At the end of the process, you’ll be prompted to save the installer in your chosen directory.
 
 ## How to Use  
-Check out the [instruction ](https://github.com/chris1111/Download_Install_macOS/blob/main/Usage.md) for step-by-step guidance or follow these instructions:
-
-## Download  
-Grab the latest release ➤ [Download Here](https://github.com/macOSUtilities/Doenload-macOS-Script/releases/tag/latest)
+Check out the [instructions](https://github.com/macOSUtilities/Download-macOS-Script/blob/main/Usage.md) for step-by-step guidance or follow these instructions:
 
 ## Screenshots  
 ### Example Choices:  
